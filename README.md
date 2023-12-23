@@ -1,10 +1,10 @@
-### Hi there 👋
+## Welcome and hello 👋
 
-
+I'm a sysadmin, developer and manager, who used to be a business owner in the before times.
 
 I'm currently working on machine learning, with a special focus on time series and sequential data, with applications to computer operations.
 
-I'm currently learning PyTorch, CUDA, and all varieties of machine learning. I read a paper just about every day.
+My learning is around PyTorch, CUDA, and all varieties of machine learning. I read more than one paper just about every day.
 
 I'm looking to consult in the area of Linux operations, including optimizing developer pipelines.
 
