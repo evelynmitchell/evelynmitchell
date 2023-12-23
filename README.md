@@ -8,7 +8,9 @@ My learning is around PyTorch, CUDA, and all varieties of machine learning. I re
 
 I'm looking to consult in the area of Linux operations, including optimizing developer pipelines.
 
-I'm looking for help with gathering sample data for use in training models on log files from containers, virtual machines and bare metal. Looking to help with mentoring around git, devops, github actions, system architecture...
+I'm looking for help with gathering sample data for use in training models on log files from containers, virtual machines and bare metal. 
+
+Looking to help with mentoring around git, devops, github actions, system architecture...
 
 You can reach me by opening an issue on this repository.
 
