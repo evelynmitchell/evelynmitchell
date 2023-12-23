@@ -16,6 +16,8 @@ You can reach me by opening an issue on this repository.
 
 Colorado, US.
 
-![m](github-metrics.svg)
 Github [statistics from lowlighter/metrics](https://github.com/lowlighter/metrics)
+
+![m](github-metrics.svg)
+
 
