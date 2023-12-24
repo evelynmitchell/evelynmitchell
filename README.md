@@ -1,6 +1,6 @@
 ## Welcome and hello 👋
 
-I'm a sysadmin, developer and manager, who used to be a business owner in the before times.
+I'm a sysadmin, developer and manager, who used to be a business owner in the before times. I co-founded tummy.com a Linux Sysadmin consulting company and dedicated managed hosting company and ran it for 26 years. I had the privilege of working with an exceptional team, and great customers and vendors.
 
 I'm currently working on machine learning, with a special focus on time series and sequential data, with applications to computer operations.
 
