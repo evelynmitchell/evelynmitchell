@@ -1,3 +1,9 @@
+# OpenToWork
+
+I'm looking for a role managing an Operations, Infrastructure or Support team (Linux, Kubernetes), or as an individual contributor (Python, ML, Build, CICD). Remote only. US hours. Contract, part time or full time.
+
+You can schedule a call with me on my [calendar](https://cal.com/evelynmitchell). Please a brief description your project and company information. You can also open an issue on this repository to contact me more quickly.
+
 ## Welcome and hello 👋
 
 I'm a sysadmin, developer and manager, who used to be a business owner in the before times. I co-founded tummy.com, a Linux Sysadmin consulting company and dedicated managed hosting company, and ran it for 26 years. I had the privilege of working with an exceptional team, and great customers and vendors.
