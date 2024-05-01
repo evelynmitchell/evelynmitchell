@@ -14,6 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # The instructions: https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
+          # I always forget the step where I have to add the newly generated token to the repository secrets.
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
