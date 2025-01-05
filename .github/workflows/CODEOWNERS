@@ -1,0 +1,6 @@
+# These owners will be the default owners for everything in
+# the repo.
+
+* @evelynmitchell
+
+# The CODEOWNERS file is a simple way to define individuals or teams that are responsible for code in a repository. You can use the CODEOWNERS file to require code review from a specific person or team when someone with write or admin permissions makes a pull request.
