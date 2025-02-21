@@ -713,7 +713,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="129.86486486486487 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="129.7097097097097 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -736,9 +736,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 62.1k out of 225m repositories</span>
+                                    <span class="gh">ranked 62.1k out of 231m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 838 stars</div>
+                                <div class="text">Maintaining a repository with 837 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -858,7 +858,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.71m out of 225m repositories</span>
+                                    <span class="gh">ranked 3.71m out of 231m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -943,7 +943,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2025, 05:10:51 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2025, 06:10:34 (timezone America/Denver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
