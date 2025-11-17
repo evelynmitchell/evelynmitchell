@@ -5,7 +5,3 @@ Hi. I'm Evelyn. Open Source has been my career for a long time, as a developer, 
 You can reach me by opening an issue on this repository, or [book call with me](https://cal.com/evelynmitchell). I'm also happy to connect on [LinkedIn](https://www.linkedin.com/in/evelynmitchell/)
 
 Colorado, US.
-
-Github [statistics from lowlighter/metrics](https://github.com/lowlighter/metrics)
-
-![m](github-metrics.svg)
